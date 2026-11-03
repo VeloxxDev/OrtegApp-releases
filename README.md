@@ -12,6 +12,10 @@ Outil de traitement des raws : upscale waifu2x, fusion et découpe des planches.
    Tu peux aussi cliquer sur « Informations complémentaires », puis « Exécuter quand même ».
 
 L'app prévient elle-même quand une nouvelle version sort : un bouton « MISE À JOUR » apparaît en haut.
+Depuis la version 2.3.1, ce bouton installe la nouvelle version tout seul et relance l'app, avec tes réglages.
+En 2.3.0, il ouvre cette page : télécharge alors l'exe à la main une dernière fois.
+
+Le bouton « ? » en haut de l'app ouvre cette page d'aide.
 
 ## Prérequis
 
